@@ -1,1 +1,1 @@
-print('Hello World.123hadi bakalim yeni geldi sıcak sıcak')
+print('Hello World.123hadi bakalim yeni geldi sıcak sıcaktı')
